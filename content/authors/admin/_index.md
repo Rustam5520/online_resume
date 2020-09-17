@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rustam Karpykov
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: METU
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Data Science
 - Machine Learning
 - Statistical Modelling
-- Natural Language Processing
+- NLP
 
 education:
   courses:
   - course: BSc in Statistics
     institution: Middle East Technical University 
-    year: 2008
+    year: 2016-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,10 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "rustamkarpykov@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RKarpykov
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
